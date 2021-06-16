@@ -33,7 +33,7 @@ Our aim is to develop a website that helps women to communicate about the issues
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/hindhuja2001/hindhuja2001.github.io/blob/main/wit/Capture2.JPG?raw=true)](https://youtu.be/l4GhuThgZ04)
 
 ## The architecture
 
