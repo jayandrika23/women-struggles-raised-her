@@ -1,11 +1,11 @@
 
-# Women - Struggles Raised Her
+# Women-  Struggles Raised Her
 We have designed a website that gives the awareness for Women to tackle with their both personal problems and problems faced in the society. This website can be accessed by women in order to share and solve the problems, threats, and other issues faced by them.
 
 
 ## Contents
 
-- [Submission or project name](#submission-or-project-name)
+- [Women-  Struggles Raised Her](#submission-or-project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -13,9 +13,8 @@ We have designed a website that gives the awareness for Women to tackle with the
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  
+  - [Website Link](#website-link)
 
 ## Short description
 
@@ -47,7 +46,7 @@ Our aim is to develop a website that helps women to communicate about the issues
 
 4. If the public has any kind of complaints regarding our website, they can be posted it in our registering complaints forum.
 
-## Long description
+
 
 
 
