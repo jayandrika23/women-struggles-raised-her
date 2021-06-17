@@ -53,9 +53,12 @@ Our aim is to develop a website that helps women to communicate about the issues
 ## Project roadmap
 
 The project currently does the following things:
-•	Arranging Sessions for Counselling
-•	Register complaints
-•	Providing the necessary guidance to the user for their issues
+
+1.	Arranging Sessions for Counselling
+
+2.	Register complaints
+
+3. Providing the necessary guidance to the user for their issues
 
 
 
