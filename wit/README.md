@@ -31,7 +31,7 @@ The technology helps in the way that makes women to collaborate and solve their 
 Our aim is to develop a website that helps women to communicate about the issues faced by them and solve it in a efficient and personal way. It also includes allocating sessions to them whenever in need of counselling. This helps to save them from loneliness and ensures that there is a solution to each and every problem. This solution also helps creating optimistic way of life for  the women deprived of education, equality and other basic human rights.
 
 ## Demo video
-
+Youtube link: https://youtu.be/l4GhuThgZ04
 [![Watch the video](https://github.com/hindhuja2001/hindhuja2001.github.io/blob/main/wit/Capture2.JPG?raw=true)](https://youtu.be/l4GhuThgZ04)
 
 ## The architecture
