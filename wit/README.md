@@ -1,5 +1,5 @@
 
-# Women-  Struggles Raised Her
+# Women:  Struggles Raised Her
 We have designed a website that gives the awareness for Women to tackle with their both personal problems and problems faced in the society. This website can be accessed by women in order to share and solve the problems, threats, and other issues faced by them.
 
 
